@@ -1,0 +1,50 @@
+{
+  "name": "Cherry Red & Graphite",
+  "dataColors": [
+    "#C41E3A",
+    "#41454D",
+    "#E56B80",
+    "#737984",
+    "#F2A7B4",
+    "#A5ABB4",
+    "#8E1530",
+    "#CDD0D5"
+  ],
+  "background": "#F2F3F5",
+  "foreground": "#41454D",
+  "tableAccent": "#C41E3A",
+  "good": "#25835B",
+  "neutral": "#737984",
+  "bad": "#C41E3A",
+  "maximum": "#C41E3A",
+  "center": "#F2A7B4",
+  "minimum": "#FCE8EC",
+  "null": "#CDD0D5",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FCFCFC"
+              }
+            },
+            "transparency": 100
+          }
+        ],
+        "title": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#41454D"
+              }
+            },
+            "fontFamily": "Segoe UI",
+            "fontSize": 12
+          }
+        ]
+      }
+    }
+  }
+}
