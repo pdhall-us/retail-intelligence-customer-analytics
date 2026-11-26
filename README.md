@@ -1,7 +1,6 @@
-<div align="center">
+ <div align="center">
 
-  <div align="center">
-  <img src="Theme/Images/PD%20Analytics%20Theme%20Logo.png" width="200" alt="PD Analytics" style="background-color: #FFFFFF; padding: 12px; border-radius: 8px;" />
+<img src="Theme/Images/PD%20Analytics%20Theme%20Logo.png" width="200" alt="PD Analytics" />
 
 # Retail Intelligence & Customer Analytics
 
@@ -54,14 +53,14 @@ This project transforms historical UK online retail transactions into actionable
 
 ```mermaid
 graph TD
- A[Online Retail II CSV files] --> B[Python and Pandas consolidation]
- B --> C[MySQL validation and reconciliation]
- C --> D[Data cleaning and feature engineering]
- D --> E[RFM scoring and segmentation]
- E --> F[90-day churn flag]
- F --> G[Cleaned Excel dataset]
- G --> H[Power BI dashboard]
- H --> I[Business insights]
+    A[Online Retail II CSV files] --> B[Python and Pandas consolidation]
+    B --> C[MySQL validation and reconciliation]
+    C --> D[Data cleaning and feature engineering]
+    D --> E[RFM scoring and segmentation]
+    E --> F[90-day churn flag]
+    F --> G[Cleaned Excel dataset]
+    G --> H[Power BI dashboard]
+    H --> I[Business insights]
 ```
 
 ## 📊 Power BI Dashboard
@@ -162,7 +161,8 @@ retail-intelligence-customer-analytics/
 │   │   ├── Landing.png
 │   │   ├── Overview.png
 │   │   ├── RFM.png
-│   │   └── PD Analytics Bar Chart Logo.png
+│   │   ├── PD Analytics Bar Chart Logo.png
+│   │   └── PD Analytics Theme Logo.png
 │   ├── Theme.json
 │   └── Cherry_Red_Graphite_PowerBI_Theme.json
 ├── PD_Analytics_BRD.pdf
