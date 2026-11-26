@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="Theme/Images/PD%20Analytics%20Bar%20Chart%20Logo.png" width="200" alt="PD Analytics" />
+
+  <div align="center">
+  <img src="Theme/Images/PD%20Analytics%20Bar%20Chart%20Logo.png" width="200" alt="PD Analytics" style="background-color: #FFFFFF; padding: 12px; border-radius: 8px;" />
 
 # Retail Intelligence & Customer Analytics
 
