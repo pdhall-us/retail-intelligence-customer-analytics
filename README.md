@@ -26,9 +26,9 @@
 
 This project transforms historical UK online retail transactions into actionable customer intelligence. It combines data consolidation, SQL-based validation, Python-based RFM segmentation and interactive Power BI reporting to understand revenue performance, customer value and churn risk.
 
-| Raw transactions | Coverage | Customer segments |
-|:---:|:---:|:---:|
-| 1,067,371 | 2009–2011 | 6 |
+| Raw transactions | Coverage | Customer segments | Dashboard
+|:---:|:---:|:---:|:---:|
+| 1,067,371 | 2009–2011 | 6 |3|
 
 ## 🎯 Business Objectives
 
